@@ -1,61 +1,56 @@
 # Technical Interview Tips
 
-## Admit When You Don't Know Something 
+Here is some advice for acing your technical interviews.
 
-When you’re stumped, try and compare it to something you do know (e.g. “So Tree Maps are like Hash Maps, let me talk about hash maps...”
+First, a reminder that these earlier sections of the Career Prep Track should be reviewed as part of your overall interview prep:
 
+- INTERVIEWING/RESEARCH BEFORE AN INTERVIEW
+- INTERVIEWING/PREPARING QUESTIONS FOR INTERVIEWS
+- INTERVIEWING/PHONE AND VIDEO/VIRTUAL INTERVIEWS
+- PREPARATION FOR THE INTERVIEW
+- CULTURAL/HR INTERVIEW QUESTIONS
+- THE SALARY QUESTION FOR CYBERSECURITY
+- SENDING THANK YOU’S AFTER AN INTERVIEW
 
-If you come across an algorithm you don’t know and you are asked to implement it, ask your interviewer to explain it, then do your best to directly transfer what they said into real code. Don’t do any optimizations the first time around.
+## Some success strategies for during the interview**
 
-If you simply don’t know the answer to a question, be honest and admit you don’t know. Don’t lie or try to BS your way through it. 
+**Don’t cram!**
+
+As a candidate you are not expected to know everything about the business and the specialized technical skills required for the role you are interviewing for.  Avoid cramming for knowledge - if hired, you’ll learn these skills over time. 
+
+**Work on your attitude as much as your aptitude**
+
+For a successful interview, personality matters incredibly.  No matter how gifted and skilled you may be, you must be able to communicate effectively and get along and work well with others.  An interviewer wants to see that you have what it takes to build solid relationships. If you come across as unpleasant, too uptight, or as having a “blah” personality, these perceived behaviors are sure to have a negative impact on your candidacy.  Always remember that you are being evaluated for team fit - are you a person the existing staff will like working and socializing with?
+
+**Ask intelligent and thoughtful questions**
+
+Some samples of quality questions to ask include:
+- What are the major security challenges the organization is facing? 
+- What's the next problem you're trying to solve in the security sphere: compliance, secure coding, or infrastructural issues? 
+- Does the organization plan to expand or streamline its security team?
+- Questions like these not only display your strong interest in the role for which you're interviewing, but will help you to -- determine whether this position is the right fit for you.
+
+**Be humble! Admit when you don't know something!**
+
+Check your ego at the door!  Realizing how bright you are personally, the security professionals you’re about to meet are a sharp bunch. Be careful on the following points:
+- Unless directly asked, we don’t recommend offering advice on how this company you are interviewing with could improve their operations.  If you spend the interview letting them know all the things they’re doing wrong, you’re not likely to get hired. 
+- Be ready to answer questions on your current employment situation, and other potentially negative questions.
+- “What are your weak points” questions will expose your current gaps on how your skills align with the requirements for this role. Stress that you are eager and want to learn the gaps you currently have.  Never reply that you have none - there’s always something new to learn! 
+- Remember that you are not an expert!  When it comes to hard technical skills, show passion - and don’t pretend to know what you don’t.  You can get immediately disqualified by doing so.
+- Be ready to relay what blogs and resources you are familiar with, and where your passion is within technology.
+- Demonstrate your technical proficiency and creativity in solving technical challenges as they relate to the job description.
 
 **Interviewers already know the right answer before they ask you the question**.
 
-A graceful way to answer is, “I’m sorry, I don’t know the answer to that, but I’ll take some time to learn about it after this interview”. 
+If you simply don’t know the answer to a question, be honest and admit you don’t know. Don’t lie or try to BS your way through it. A graceful way to answer is, “I’m sorry, I don’t know the answer to that, but I’ll take some time to learn about it after this interview.” 
 
-## What to Do If You Make a Mistake (Stay Calm)
+If you simply don’t know the answer to a question, be honest and admit you don’t know. Don’t lie or try to BS your way through it.
 
-It’s likely you’ll make a few mistakes during the interview. 
+## Post interview follow up
 
-- You might have a syntax error when you run your code during the pair-programming portion.
-- You might not know the answer to one of the trivia questions.
-- You might run out of space while whiteboarding.
+Here’s a suggestion for how to never fail a technical interview:  Post interview, immediately research the questions that came up and send a response to their interviewer with the correct answers / any questions that came up while doing research. This must be done ASAP (within 24 hours). Humility (and the ability to admit you didn't know everything) and the ability to research what you don't know are important traits of a Junior cybersecurity professional. 
 
-There a million other things that might go wrong. Interviewing - technical or otherwise - is stressful. The trick to doing well is staying calm and maintaining your composure.
-
-Every practicing professional in your field knows that you don’t just wake up one day, build an entire application or project from scratch, and run it without a single bug. Real-life project development is iterative, and you’re allowed to make mistakes in an interview. Don’t beat yourself up if you get something wrong.
-
-If you don’t know the answer to one (or some) of the trivia questions, that’s okay. Just admit you don’t know, and the interviewer will move on.
-
-You might have been asked an ambiguous algorithm question and don’t know where to start. The interviewer may have done that intentionally. Don’t be afraid to ask questions and probe for more information. It’s also okay to take a minute and think about the problem before you attempt to solve it.
-
-Last but not least...
-
-## Have Fun With It
-
-It's normal to get anxious when it comes to technical interviews. You may feel like you have a lot riding on the interview, but the best way to succeed is to have as much fun as you can.
-
-Treat technical interviews as if you are already on the team. Ask questions like you would in your group projects. Treat your interviewer like s/he’s your partner and you are collaborating to build a fun new app/project.
-
-If you think of tech interviews as less about being evaluated and more about working with another person, you’ll remove any doubt you had and end up exuding the passion for problem solving that got you into your new profession in the first place.
-
-Knock ‘em dead.
-
-## Next Steps 
-
-The action items below are very important and you should take your time and complete all of them. 
-
-Technical aptitude is an important factor when interviewing so be sure to spend a healthy amount of time studying and sharpening your skills. 
-
-- Sign up for [Project Euler](https://projecteuler.net/) and start solving problems.
-- Sign up for [Interview Cake](https://www.interviewcake.com/all-questions) and start solving problems.
-- Sign up for [Interviewing.io](http://interviewing.io/) and start practicing for interviews.
-- Become familiar with [Big-O](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity). 
-- Find a whiteboard, pick a few questions out of Project Euler or Interview Cake, and test yourself. If you have any developer friends, ask them to do a mock whiteboard interview with you.
-- Read this blog post: [How to Make the Most Out of Your Technical Interview](http://blog.flatironschool.com/how-to-make-the-most-out-of-your-next-technical/)
-- [Read these coding interview tips](https://www.interviewcake.com/article/java/coding-interview-tips)
-- [Check out this blog on how to pass a programming interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
-- [Review this article on must-know data science interview questions and answers](https://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
+Sending a Thank You follow up note is CRITICAL.  Your Career Coach can be a great asset here!  Also review the section Interviewing/Sending Thank You's after an interview.
 
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/tips-for-technical-interviews'>Tips for Technical Interviews</a> on Learn.co and start learning to code for free.</p>
+
