@@ -12,7 +12,7 @@ First, a reminder that these earlier sections of the Career Prep Track should be
 - THE SALARY QUESTION FOR CYBERSECURITY
 - SENDING THANK YOU’S AFTER AN INTERVIEW
 
-## Some success strategies for during the interview**
+## **Some success strategies for during the interview**
 
 **Don’t cram!**
 
@@ -30,7 +30,7 @@ Some samples of quality questions to ask include:
 - Does the organization plan to expand or streamline its security team?
 - Questions like these not only display your strong interest in the role for which you're interviewing, but will help you to -- determine whether this position is the right fit for you.
 
-**Be humble! Admit when you don't know something!**
+**Be humble!  Admit when you don't know something!**
 
 Check your ego at the door!  Realizing how bright you are personally, the security professionals you’re about to meet are a sharp bunch. Be careful on the following points:
 - Unless directly asked, we don’t recommend offering advice on how this company you are interviewing with could improve their operations.  If you spend the interview letting them know all the things they’re doing wrong, you’re not likely to get hired. 
@@ -46,7 +46,7 @@ If you simply don’t know the answer to a question, be honest and admit you don
 
 If you simply don’t know the answer to a question, be honest and admit you don’t know. Don’t lie or try to BS your way through it.
 
-## Post interview follow up
+## **Post interview follow up**
 
 Here’s a suggestion for how to never fail a technical interview:  Post interview, immediately research the questions that came up and send a response to their interviewer with the correct answers / any questions that came up while doing research. This must be done ASAP (within 24 hours). Humility (and the ability to admit you didn't know everything) and the ability to research what you don't know are important traits of a Junior cybersecurity professional. 
 
